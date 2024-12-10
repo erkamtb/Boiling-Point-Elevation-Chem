@@ -20,5 +20,4 @@ while i <= 20:
     BoilingPointElevation = calcTemp()
     print(f"Boiling elevation is: {BoilingPointElevation:.2f}")
     print(f"Boiling Temp is: {BoilingPointElevation + normalWaterBoilingTemp:.2f} for {i} grams of solute")
-
     i=i+4
